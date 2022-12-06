@@ -203,4 +203,22 @@ const questions = [
       { text: 'unshift()', correct: false }
     ]
   },
+  {
+    question: 'Vad är HTML DOM?',
+    answers: [
+      { text: 'Array typ', correct: false },
+      { text: 'Module', correct: false },
+      { text: 'Object Model', correct: true },
+      { text: 'Loop typ', correct: false }
+    ]
+  },
+  {
+    question: 'Vad står HTML DOM för?',
+    answers: [
+      { text: 'Document Object Module', correct: false },
+      { text: 'Default Order Model', correct: false },
+      { text: 'Document Object Model', correct: true },
+      { text: 'Default Order Module', correct: false }
+    ]
+  },
 ]
